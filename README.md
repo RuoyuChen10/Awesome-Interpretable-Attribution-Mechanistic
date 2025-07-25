@@ -1,5 +1,7 @@
 # 🌟 Awesome Interpretable Attribution Mechanistic
-  
+<div align="center">
+  <img src="images/LOGO.png" alt="Logo">
+  <h2 align="center">Peering into the Black Box of DNNs.</h2>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/RuoyuChen10/Awesome-Interpretable-Attribution-Mechanistic?color=green)  
