@@ -10,3 +10,7 @@
 <div align="center">
   <p style="font-size:20px;"><em>A curated collection of resources focused on the Interpretable Attribution Mechanistic from small models to large models.</em></p>
 </div>
+
+## 🔔 News
+
+- **[2025-06]** I created this repository to maintain a paper list on **Interpretable Attribution Mechanistic**. Contributions are welcome!!!
