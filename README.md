@@ -13,4 +13,4 @@
 
 ## 🔔 News
 
-- **[2025-06]** I created this repository to maintain a paper list on **Interpretable Attribution Mechanistic**. Contributions are welcome!!!
+- **[July 25, 2025]** I created this repository to maintain a paper list on **Interpretable Attribution Mechanistic**. Contributions are welcome!!!
